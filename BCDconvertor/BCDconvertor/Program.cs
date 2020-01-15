@@ -8,6 +8,7 @@ namespace BCDconvertor
 {
     class Program
     {
+        //convertor baze
         static void Main(string[] args)
         {        
             int[] v = new int[100];
