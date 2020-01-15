@@ -1,0 +1,6 @@
+C:\Users\Cami\Desktop\Aplicatie calculator calorii\Necesarul caloric\Necesarul caloric\bin\Debug\Necesarul caloric.exe.config
+C:\Users\Cami\Desktop\Aplicatie calculator calorii\Necesarul caloric\Necesarul caloric\bin\Debug\Necesarul caloric.exe
+C:\Users\Cami\Desktop\Aplicatie calculator calorii\Necesarul caloric\Necesarul caloric\bin\Debug\Necesarul caloric.pdb
+C:\Users\Cami\Desktop\Aplicatie calculator calorii\Necesarul caloric\Necesarul caloric\obj\Debug\Necesarul caloric.csprojAssemblyReference.cache
+C:\Users\Cami\Desktop\Aplicatie calculator calorii\Necesarul caloric\Necesarul caloric\obj\Debug\Necesarul caloric.exe
+C:\Users\Cami\Desktop\Aplicatie calculator calorii\Necesarul caloric\Necesarul caloric\obj\Debug\Necesarul caloric.pdb
