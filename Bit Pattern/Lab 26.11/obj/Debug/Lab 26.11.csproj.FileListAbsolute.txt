@@ -1,0 +1,6 @@
+C:\Users\Cami\Desktop\Programe ASC\Lab 26.11\Lab 26.11\bin\Debug\Lab 26.11.exe.config
+C:\Users\Cami\Desktop\Programe ASC\Lab 26.11\Lab 26.11\bin\Debug\Lab 26.11.exe
+C:\Users\Cami\Desktop\Programe ASC\Lab 26.11\Lab 26.11\bin\Debug\Lab 26.11.pdb
+C:\Users\Cami\Desktop\Programe ASC\Lab 26.11\Lab 26.11\obj\Debug\Lab 26.11.csprojAssemblyReference.cache
+C:\Users\Cami\Desktop\Programe ASC\Lab 26.11\Lab 26.11\obj\Debug\Lab 26.11.exe
+C:\Users\Cami\Desktop\Programe ASC\Lab 26.11\Lab 26.11\obj\Debug\Lab 26.11.pdb
